@@ -411,3 +411,4 @@ trojan://fa33e21c919eae07cb838f3fa28c8608@tyy129.magiclampcloud.com:59443?allowI
 trojan://fa33e21c919eae07cb838f3fa28c8608@tyy129.magiclampcloud.com:59443?type=tcp
 trojan://fa74fc619c26978ad3585426d06fbde6@ja304.magiclampcloud.cn:59443?type=tcp
 ss://0f47a872-b140-46f5-aef8-f46993f5fc01@112.49.63.11:33102?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=sgg.knhqf.com&type=tcp
+ss://0f47a872-b140-46f5-aef8-f46993f5fc01@112.49.63.11:33102?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=sgg.knhqf.com
