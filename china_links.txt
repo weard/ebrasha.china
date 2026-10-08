@@ -1,2 +1,3 @@
 trojan://571eebbdb044bdd90d8773babf048844@tyy129.magiclampcloud.com:59443?type=tcp
 trojan://7141b5f0592f2e7f459ea2e8cfcd8a84@ja304.magiclampcloud.cn:59443?type=tcp
+vless://d51ed55c-d6dd-400b-aaf6-017c33969bfe@47.89.186.170:55861?security=reality&encryption=none&pbk=t2ndf6SeVxinFCo5bcemnW_ZZhAtmHWiAkllks5qPWs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7551ed1b
